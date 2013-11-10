@@ -1,0 +1,30 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/splash"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:alpha="0"
+    android:keepScreenOn="true"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@android:color/white"
+        android:padding="16dp"
+        android:src="@drawable/splash2" />
+
+    <TextView
+        android:id="@+id/company"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="32dp"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="SPEC ; HOLD THE KEY TO YOUR SECURITY"
+        android:textColor="@android:color/black"
+        android:textSize="13sp"
+        android:textStyle="normal" />
+</FrameLayout>
+<!-- From: file:/C:/Users/yehezkelk/Downloads/k-9-master/k-9-master/res/layout-land/splash.xml -->

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\plugins\HoloColorPicker\src\main\assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\plugins\HoloColorPicker\src\release\assets" />
+    </dataSet>
+
+</merger>

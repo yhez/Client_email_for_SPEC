@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\plugins\ckChangeLog\library\res" >
+            <file
+                path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\plugins\ckChangeLog\library\res\values\strings.xml"
+                qualifiers="" >
+                <string name="changelog_ok_button" >OK
+                </string>
+                <string name="changelog_show_full" >More…
+                </string>
+                <string name="changelog_full_title" >Change Log
+                </string>
+                <string name="changelog_title" >What\'s New
+                </string>
+                <string name="changelog_version_format" >Version 
+<ns1:g id="version_name" >
+%s
+                    </ns1:g></string>
+            </file>
+            <file
+                path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\plugins\ckChangeLog\library\res\values-ru\strings.xml"
+                qualifiers="ru" >
+                <string name="changelog_show_full" >Подробнее…
+                </string>
+                <string name="changelog_title" >Что нового
+                </string>
+                <string name="changelog_full_title" >Изменения
+                </string>
+                <string name="changelog_ok_button" >OK
+                </string>
+                <string name="changelog_version_format" >Версия 
+<ns1:g id="version_name" >
+%s
+                    </ns1:g></string>
+            </file>
+            <file
+                path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\plugins\ckChangeLog\library\res\values-sk\strings.xml"
+                qualifiers="sk" >
+                <string name="changelog_show_full" >Viac…
+                </string>
+                <string name="changelog_title" >Čo je nové
+                </string>
+                <string name="changelog_ok_button" >OK
+                </string>
+                <string name="changelog_full_title" >Zoznam zmien
+                </string>
+                <string name="changelog_version_format" >Verzia 
+<ns1:g id="version_name" >
+%s
+                    </ns1:g></string>
+            </file>
+            <file
+                name="changelog"
+                path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\plugins\ckChangeLog\library\res\xml\changelog.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="changelog_master"
+                path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\plugins\ckChangeLog\library\res\xml\changelog_master.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\plugins\ckChangeLog\library\build\res\rs\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\plugins\ckChangeLog\library\src\release\res" />
+    </dataSet>
+
+</merger>

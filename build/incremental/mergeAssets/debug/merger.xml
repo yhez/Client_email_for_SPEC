@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="K9MasterPluginsHoloColorPickerUnspecified.aar" >
+        <source path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\build\exploded-bundles\K9MasterPluginsHoloColorPickerUnspecified.aar\assets" />
+    </dataSet>
+    <dataSet config="K9MasterPluginsCkChangeLogLibraryUnspecified.aar" >
+        <source path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\build\exploded-bundles\K9MasterPluginsCkChangeLogLibraryUnspecified.aar\assets" />
+    </dataSet>
+    <dataSet config="K9MasterPluginsAndroidPullToRefreshLibraryUnspecified.aar" >
+        <source path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\build\exploded-bundles\K9MasterPluginsAndroidPullToRefreshLibraryUnspecified.aar\assets" />
+    </dataSet>
+    <dataSet config="K9MasterPluginsActionBarSherlockLibraryUnspecified.aar" >
+        <source path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\build\exploded-bundles\K9MasterPluginsActionBarSherlockLibraryUnspecified.aar\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\yehezkelk\Downloads\k-9-master\k-9-master\src\debug\assets" />
+    </dataSet>
+
+</merger>
